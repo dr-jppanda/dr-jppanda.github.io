@@ -1,2 +1,2 @@
-# Romit-Maulik.github.io
+# dr-jppanda.github.io
 Hosting personal webpage
